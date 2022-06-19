@@ -1,0 +1,32 @@
+body
+{
+background-position: center;
+background-size: cover;
+font-family: cursive;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+canvas
+{
+    margin-top: 25px;
+    box-shadow: 10px 10px 10px #009999;
+    border-radius: 5px;
+    border-style: dotted;
+}
+#status
+{
+font-size: 20px;
+}
+#object_number
+{
+    font-size: 20px;
+}
+#start
+{
+    margin-top: 15px;
+}
+
